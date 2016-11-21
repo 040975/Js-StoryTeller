@@ -1,0 +1,62 @@
+body {
+    background-size: contain;
+    background-image: url("../image/images.jpeg");
+    background-position: right;
+    background-repeat: no-repeat;
+}
+
+
+#madiv {
+    width: 600px;
+    height: 600px;
+  
+    margin-top: 50px;
+}
+
+p {
+    width: 500px;
+    height: 200px;
+    font-size: 20px;
+    text-align: center;
+    font-family: sans-serif;
+    margin-top: 20px;
+}
+
+#titre {
+    text-align: center;
+}
+
+.heros1 {
+    color: red;
+}
+
+#couleur1 {
+    color: blue;
+    font-family: Arial;
+}
+
+#gauche {
+    color: yellow;
+    font-family: Arial;
+}
+
+#droite {
+    color: yellow;
+    font-family: Arial;
+}
+
+#queue {
+    color: #532d05;
+}
+
+.amis {
+    color: #c430d1;
+}
+
+.amis2 {
+    color: pink;
+}
+
+#race {
+    color: #53c0dd;
+}
